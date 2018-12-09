@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (Learn to use AJAX, JSON and APi features to create a webpage that involves search queries)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://boj1717.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. What an API is and how it is used. 
